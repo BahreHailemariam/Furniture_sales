@@ -122,3 +122,9 @@ cd Furniture-Sales-Analysis-Excel/
 - **License: MIT** (feel free to adjust as necessary)
 
 - **Contributions:** Pull requests and feedback welcomed—whether it’s enhanced visuals, formula optimizations, or new analysis perspectives!
+
+
+## 👤 Author
+**Bahre Hailemariam**  
+📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) |💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
